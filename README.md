@@ -1,6 +1,5 @@
 [![twitter][1i]][1p]
 [![licence][2i]][2p]
-[![travis][3i]][3p]
 
 # fish-textadept
 
